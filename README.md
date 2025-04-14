@@ -1,16 +1,69 @@
-# breathe_easy
+# Breathe Easy 🌬️🫁
 
-A new Flutter project.
+**Breathe Easy** is a minimalist Flutter app designed to guide users through calming breathing exercises using smooth animations, simple prompts, and a clean UI. Ideal for mindfulness practice and stress relief.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🟢 Animated breathing circle synced with inhale/hold/exhale prompts
+- 🌙 Dark mode toggle with smooth gradient backgrounds
+- ⏯️ Start and pause breathing with tooltip feedback
+- 📖 Motivational prompt sequence (e.g. "Inhale deeply", "Hold", "Exhale slowly")
+- 🔁 Restart session logic (coming soon)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Getting Started
+
+Follow these steps to run the app locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/bisayangmarino/breathe_easy.git
+cd breathe_easy
+
+# 2. Install dependencies
+flutter pub get
+
+# 3. Run the app on a connected device or emulator
+flutter run
+```
+---
+
+## 📱 Preview
+
+_Add screenshots or short GIFs here once ready to showcase the UI and animation flow._
+
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev)
+- [Dart](https://dart.dev)
+
+---
+
+## 📃 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for full license text.
+
+---
+
+## 🙌 Credits
+
+Built with care by [@bisayangmarino](https://github.com/bisayangmarino)  
+Design inspired by breathwork & mindfulness tools.
+
+---
+
+## 🚧 Roadmap
+
+- [x] Breathing animation synced with step timer
+- [x] Dark mode toggle with background gradient
+- [x] Pause & resume session with dynamic text
+- [ ] Add restart session button
+- [ ] Optional ambient sound & haptic feedback
+- [ ] Session customization (breath count, duration)
+
